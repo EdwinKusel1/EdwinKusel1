@@ -3,7 +3,6 @@
 I am pursuing my passion for coding and problem-solving as a second-year **Computer Science** student at the **University of Pretoria**.
 
 ## 💻 What I’ve been working with
-Programming languages I’ve explored:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=java&logoColor=white)
