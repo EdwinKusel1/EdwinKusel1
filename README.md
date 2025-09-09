@@ -1,6 +1,6 @@
 ## 👋Hi there, I'm Edwin Kusel
 
-I am pursuing my passion for coding and problem-solving as a second-year **Computer Science** student at the **University of Pretoria**.
+🔹 I am pursuing my passion for coding and problem-solving as a second-year **Computer Science** student at the **University of Pretoria**.
 
 ## 💻 What I’ve been working with
 
