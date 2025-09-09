@@ -22,6 +22,3 @@ Data Structures & Algorithms (COS 212): Gained hands-on experience with classic 
 Software Modelling (COS 214): Learned about design patterns and model-driven development, which gave me a new perspective on structuring software.
 
 Concurrent Systems (COS 226): Explored concepts of processes, threads, synchronization, and inter-process communication, which deepened my understanding of parallelism and system performance.
-
-## 📫 Let’s connect
-📧 Email: kuseledwin@gmail.com
