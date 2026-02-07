@@ -4,17 +4,12 @@
 
 ## 💻 What I’ve been working with
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-00BFFF?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-800080?style=for-the-badge&logo=postgresql&logoColor=white)
-
-🔹 I’m the most confident in C++ and Java.
+![C++](https://img.shields.io/badge/C++-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFEA00?style=for-the-badge&logo=openjdk&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-FF00FF?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-FF3D00?style=for-the-badge&logo=angular&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-39FF14?style=for-the-badge&logo=postgresql&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-00E5FF?style=for-the-badge&logo=microsoftazure&logoColor=black)
 
 ## 📘 Courses I’ve enjoyed
 Program Design (COS 110): Built a strong base in object-oriented programming, inheritance, and polymorphism while learning how to apply these concepts effectively.
